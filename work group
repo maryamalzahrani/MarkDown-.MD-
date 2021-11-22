@@ -1,4 +1,4 @@
-#### *Machine Learning in FinTech*:  
+####*Machine Learning in FinTech* :  
 
 
 **Area of FinTech**:  
@@ -9,7 +9,7 @@ For this in our project, we will use machine learning to credit card fraud Detec
  In our project, we will use a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration 1st Jan 2019 - 31st Dec 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 data sources: https://www.kaggle.com/kartik2112/fraud-detection
 
-**ML Use Case**:  
+**ML Use Case** :  
 In our project, we will use machine learning to credit card fraud Detection to reduce the loss of billions of dollars every year in credit card fraud.
 
 **ML model selected**:  
